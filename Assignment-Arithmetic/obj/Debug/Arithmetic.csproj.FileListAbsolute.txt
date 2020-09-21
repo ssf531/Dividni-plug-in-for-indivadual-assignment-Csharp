@@ -1,0 +1,11 @@
+\\Mac\Home\Downloads\734\Assignment-Arithmetic\bin\Debug\Arithmetic.Template.html
+\\Mac\Home\Downloads\734\Assignment-Arithmetic\bin\Debug\Arithmetic.txt
+\\Mac\Home\Downloads\734\Assignment-Arithmetic\bin\Debug\Arithmetic.dll
+\\Mac\Home\Downloads\734\Assignment-Arithmetic\bin\Debug\Arithmetic.pdb
+\\Mac\Home\Downloads\734\Assignment-Arithmetic\bin\Debug\Utilities.Courses.dll
+\\Mac\Home\Downloads\734\Assignment-Arithmetic\bin\Debug\Utilities.Coursework.dll
+\\Mac\Home\Downloads\734\Assignment-Arithmetic\obj\Debug\Arithmetic.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\734\Assignment-Arithmetic\obj\Debug\Arithmetic.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\734\Assignment-Arithmetic\obj\Debug\Arithmetic.csproj.CopyComplete
+\\Mac\Home\Downloads\734\Assignment-Arithmetic\obj\Debug\Arithmetic.dll
+\\Mac\Home\Downloads\734\Assignment-Arithmetic\obj\Debug\Arithmetic.pdb
